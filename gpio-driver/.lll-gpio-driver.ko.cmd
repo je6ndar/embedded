@@ -1,0 +1,1 @@
+savedcmd_/home/je6ndar/gpio-driver/lll-gpio-driver.ko := ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/je6ndar/gpio-driver/lll-gpio-driver.ko /home/je6ndar/gpio-driver/lll-gpio-driver.o /home/je6ndar/gpio-driver/lll-gpio-driver.mod.o;  true
